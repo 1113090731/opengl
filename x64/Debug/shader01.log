@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/2/5 23:55:54。
+     1>项目“E:\workspace\c++\shader01\shader01\shader01.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\vs\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workspace\c++\shader01\x64\Debug\shader01.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\workspace\c++\shader01\x64\Debug\shader01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workspace\c++\shader01\x64\Debug\shader01.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\util.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“freeglut.lib”
+     1>已完成生成项目“E:\workspace\c++\shader01\shader01\shader01.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.24
